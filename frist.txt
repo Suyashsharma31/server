@@ -1,0 +1,16 @@
+Introduction to Object Oriented Programming In Python
+object Oriented Progtamming is a way of
+compter Progtamming using ther idea og 
+"object" to represent data amd mehtords . it is 
+also , an approach used for creatinng neat and 
+resuable code instead of a redundant one.
+
+
+python is an object oriented programming language.
+Everything in Python is an object , with its properties and mehtords
+A number , string . list , dictionary , tuple , set etc . used in a program is 
+an object of a corresponding built-in class . We create class to create an object .
+A class is like an object constructor , or a "blueprint" for creating Objects . 
+We instantuate a class to create an onject . The class defines 
+attributes and behavoir if the object , while the object on the other hand represents the class.
+
